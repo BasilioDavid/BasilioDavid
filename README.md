@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/basilio-david-gomez-fernandez-6a1631185/)
+![Stats](https://github-readme-stats.vercel.app/api?username=basiliodavid&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34)
 
 <!-- GitHub Stats -- >
 
